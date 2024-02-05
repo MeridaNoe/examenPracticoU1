@@ -3,7 +3,7 @@
 Examen practico de la unidad 1 de la materia de Desarrollo Web Profesional
 
 
-## Getting Started
+## Descipcion
 
 Este proyecto tiena la finalidad de poner a prueba mis conocimientos
 hasta el momento sobre Vue, lo cual pide hacer una pagina web sobre autos.
